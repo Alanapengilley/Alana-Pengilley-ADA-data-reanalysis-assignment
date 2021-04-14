@@ -1,0 +1,128 @@
+
+*DATABASES/DATASETS
+ArAGATS Data Portal: https://aragats.gorgesapps.us/  BANADORA. Banque Nationale de Données Radiocarbonne pour l'Europe et le Proche Orient, Centre de Datation par le Radiocarbonne [Internet]. Lyon: CNRS.  Available from: http://www.arar.mom.fr/banadora/  Benz, M., 2014. PPND - the Platform for Neolithic Radiocarbon Dates:  https://www.exoriente.org/associated_projects/ppnd.php Böhner, U., and Schyle, D., 2006. Radiocarbon CONTEXT database 2002-2006.CalPal - The Cologne Radiocarbon Calibration & Palaeoclimate Research Package. Developed by Weninger, B., Jöris, O., and Danzeglocke, U: http://monrepos-rgzm.de/forschung/ausstattung.html#calpal EUROEVOL. Manning, K; Timpson, A; Colledge, S; Crema, E; Shennan, S; (2015) The Cultural Evolution of Neolithic Europe. EUROEVOL Dataset: http://discovery.ucl.ac.uk/1469811/ Hinz, M., Furholt, M., Müller, J., Raetzel-Fabian, D., Rinne, C.,  Sjögren, K. G., and Wotzka,H. P., 2012. RADON - Radiocarbon dates online 2012. Central European database of 14C dates for the Neolithic and Early Bronze Age. Journal of Neolithic Archaeology, 14, 1-4. Available from: http://radon.ufg.uni-kiel.de/ IRPA/KIK. Royal Institute for Cultural Heritage web based Radiocarbon database.  Van Strydonck, M. and De Roock, E., 2011. Royal Institute for Cultural Heritage web-based radiocarbon database. Radiocarbon, 53(2), pp.367-370. http://c14.kikirpa.be/ ORAU. Oxford Radiocarbon Accelerator Unit online database [Internet]. Oxford: University of Oxford. Available from: https://c14.arch.ox.ac.uk/database/db.php  Reingruber, A., and Thissen, L., 2016. The 14SEA Project. A 14C database for Southeast Europe and Anatolia (10,000–3000calBC). Available at: http://www.14sea.org/2_dates.html TAY Project 14C sample Database: http://tayproject.org/C14searcheng.html *REFERENCES 
+
+Ambers, J. C., 2001. Radiocarbon Results for Tell Brak. In: D. Oates, J. Oates, and H. McDonald (Eds.), Excavations at Tell Brak 2: Nagar in the Third Millennium BC. Cambridge: McDonald Institute Monographs, 373-378. 
+
+Bernbeck, R., & Pollock, S., 2003. The biography of an Early Halaf Village: Fistikli Höyük 1999-2000. Istanbuler Mitteilungen, 53, 9-77.
+
+Boese, J., 1995. Ausgrabungen in Tell Sheikh Hassan I. Vorläufige Berichte über die Grabungskampagnen 1984-1990 und 1992-1994. Saarbrücken: Saarbrücker Druckerei und Verlag.
+
+Bowman, S.G.E., and Ambers, J.C., 1989. Radiocarbon dates for Tell Brak, 1987. Iraq, 51, 213-215.
+
+Bowman, S. G. E., Ambers, J. C., and Leese, M. N., 1990. Re-evaluation of British Museum radiocarbon dates issued between 1980 and 1984. Radiocarbon, 32(1), 59–79.
+
+Buccellati, G., and Kelly-Buccellati, M., 1995. The royal storehouse of Urkesh: The glyptic evidence from the southwestern wing. Archiv für Orientforschung, 42/43, 1-32.
+
+Calcagnile, L., Quarta, G., and D’Elia, M., 2013. Just at that Time. 14C Determination and Analysis from EB IVA layers. In: P. Matthiae, and N. Marchetti (Eds.), Ebla and its Landscape. Early State Organization in the Near East. Walnut Creek: Left Coast Press, 450-458.
+
+Crane, H.R., and Griffin, J.B., 1972. University of Michigan radiocarbon dates XIV. Radiocarbon, 14(1), 155-194.
+
+Creekmore III, A.T., 2008. Kazane Höyük and urban life histories in third millennium Upper Mesopotamia. Northwestern University.
+
+Cruells, W., 2008. The Proto-Halaf: Origins, definition, regional framework and chronology. In Proceedings of the 5th International Congress on the Archaeology of the Ancient Near East, Madrid April 3-8 2006: Actas del V Congreso Internacional de Arqueología del Oriente Próximo Antiguo (pp. 671-689). Universidad Autónoma de Madrid.
+
+Courty, M. A., 2001. Evidence at Tell Brak for the Late ED III/Early Akkadian Air Blast Event (4kyr BP). In: D. Oates, J. Oates, and H. MacDonald (Eds.), Excavations at Tell Brak 2: Nagar in the Third Millennium BC. Cambridge: Macdonald Institute for Archaeological Research, 367-372. 
+
+Curvers, H. H., and Schwartz, G. M., 1990. Excavations at Tell al-Raqā’i: A Small Rural Site of Early Urban Northern Mesopotamia. American Journal of Archaeology, 94(1), 3–23.
+
+Danti, M.D., and Zettler, R.L., 2007. The Early Bronze Age in the Syrian northwest Jezireh: The Tell es-Sweyhat region. In . Peltenburg, E. (ed.), Euphrates River Valley settlement: The Carchemish sector in the third millennium BC. (Levant Supplementary Series 5). Oxford: Oxbow Books, 164-183.
+
+Delibrias, G., Guillier, M.T., and Labeyrie, J., 1971. Gif natural radiocarbon measurements VI. Radiocarbon, 13(2), 213-254.
+
+De Contenson, H., 1977. Le néolithique de Ras Shamra V d'après les campagnes 1972-1976 dans le sondage SH. Syria, 1-23.
+
+Di Nocera, G.M., 2000. Radiocarbon datings from Arslantepe and Norşuntepe: the fourth-third millennium absolute chronology in the Upper Euphrates and Transcaucasian region. Publications de l'Institut Français d'Études Anatoliennes, 11(1), 73-93.Dietrich, O., 2011. Radiocarbon dating the first temples of mankind. Comments on 14C-dates from Göbekli Tepe. Zeitschrift für Orient-Archäologie, 4, 12-25.
+
+Erdoğu, B., 2003. Visualizing Neolithic landscape: the early settled communities in western Anatolia and eastern Aegean islands. European Journal of Archaeology, 6(1), pp.7-23.
+
+Fiorentino, G., Caracuta, V., Calcagnile, L., D'Elia, M., Matthiae, P., Mavelli, F. and Quarta, G., 2008. Third millennium BC climate change in Syria highlighted by carbon stable isotope analysis of 14C-AMS dated plant remains from Ebla. Palaeogeography, Palaeoclimatology, Palaeoecology, 266(1-2), pp.51-58.Fiorentino, G., Caracuta, V., Quarta, G., Calcagnile, L. and Morandi Bonaccossi, D., 2012. Palaeoprecipitation trends and cultural changes in Syrian protohistoric communities: the contribution of δ13C in ancient and modern vegetation. Collapse or continuity, pp.17-34.
+
+Fishman, B., Forbes, H., and Lawn, B., 1977. University of Pennsylvania radiocarbon dates XIX. Radiocarbon, 19(2), 188-228.
+
+Flohr, P., Fleitmann, D., Matthews, R., Matthews, W. and Black, S., 2016. Evidence of resilience to past climate change in Southwest Asia: Early farming communities and the 9.2 and 8.2 ka events. Quaternary Science Reviews 136, 23-39.
+
+Fuensanta, J. G., Rothman, M. S., Charvàt, P., and Bucak, E., 2002. Tilbes Hoyük Salvage Project. 23. Kazı Sonuçları Toplantısı, 1, 131–144.
+
+Garrard, A. and Yazbeck, C., 2013. The Natufian of Moghr el-Ahwal in the Qadisha Valley, Northern Lebanon. In: Bar-Yosef, O. and F, Valla (Eds.), Natufian Foragers in the Levant. Terminal Pleistocene Social Changes in Western Asia. Ann Arbor: International Monographs in Prehistory, 17-27. 
+
+Hedges, R.E.M., Housley , R.A., Bronk, C.R., and Van Klinken, G. J., 1991. Radiocarbon dates from the Oxford AMS System: Archaeometry datelist 12. Archaeometry, 33, pp. 121-134.
+
+Hole, F., 2001. A radiocarbon chronology for the middle Khabur, Syria. Iraq, 63, 67-98.Holzer, A., Avner, U., Porat, N. and Horwitz, L.K., 2010. Desert kites in the Negev desert and northeast Sinai: Their function, chronology and ecology. Journal of arid environments, 74(7), pp. 806-817.
+
+Kaniewski, D., Van Campo, E., Van Lerberghe, K., Boiy, T., Vansteenhuyse, K., Jans, G., Nys, K., Weiss, H., Morhange, C., Otto, T. and Bretschneider, J., 2011. The Sea Peoples, from cuneiform tablets to carbon dating. PLoS One, 6(6), p.e20232.
+
+Kaniewski, D., Marriner, N., Bretschneider, J., Jans, G., Morhange, C., Cheddadi, R., Otto, T., Luce, F., and Van Campo, E., 2019. 300-year drought frames Late Bronze Age to Early Iron Age transition in the Near East: new palaeoecological data from Cyprus and Syria. Regional Environmental Change. https://doi.org/10.1007/s10113-018-01460-w Kohlmeyer, K., 1993. Zur frühen Geschichte von Blei und Silber. In: R. B. Wartke (Ed.), Frühe Technologien im Alten Orient. Berlin.
+
+Koliński, R., and Goslar, T., 2019. Radiocarbon Dating of the Transition from the Early to the Middle Bronze Age in Northeastern Syria. Radiocarbon, 61(4), 953-970. 
+
+Lawn, B., 1970. University of Pennsylvania radiocarbon dates XIII. Radiocarbon, 12(2), 577-589.Lawn, B., 1974. University of Pennsylvania radiocarbon dates XVII. Radiocarbon 16(2), pp. 219-237.
+
+Lebeau, M., 2016. Dating the Destruction of Ebla and Mari from Radiocarbon, An Update, in. CORÒ Paola, DEVECCHI Elena, DE ZORZI Nicla & MAIOCCHI Massimo (eds). Libiamo ne’lieticalici, Studi in Onore di Lucio Milano. Alter Orient und Altes Testament, 436, pp.55-64.
+
+Lebeau, M., and Milano, L., 2003. Radiocarbon Determinations for Tell Beydar. In: M. Lebeau, and A. Suleiman (Eds.), Tell Beydar, the 1995-1999 Seasons of Excavations. Brepols: Turnhout, 15-20.
+
+Matthews, R.J., 2000. Fourth and third millennia chronologies: the view from tell Brak, North-East Syria. Publications de l'Institut Français d'Études Anatoliennes, 11(1), pp.65-72.
+
+Milano, L., and Rova, E., 2008. New Discoveries of the Ca’ Foscari University Venice Team at Tell Beydar (Syria). In: J. M. Córdoba, M. Molist, M. C. Pérez, I. Rubio, and S. Martínez (Eds.), Proceedings of the 5th International Congress on the Archaeology of the Ancient Near East. Madrid: UAM Ediciones, 587-608.
+
+Moore, A.M., Gowlett, J.A.J., Hedges, R.E.M., Hillman, G.C., Legge, A.J. and Rowley-Conwy, P.A., 1986. Radiocarbon accelerator (AMS) dates for the Epipaleolithic settlement at Abu Hureyra, Syria. Radiocarbon, 28(3), pp.1068-1076.
+
+Morandi Bonacossi, D., 2008. Excavations on the Acropolis of Mishrifeh, Operation J: A New Early Bronze Age III-Iron Age III Sequence for Central Inner Syria Part 1: Stratigraphy, Chronology and Architecture. Akkadica, 129(1), 55-127.
+
+Nishiaki, Y., 2019. Jezla: An Early-Middle Bronze Age Site Complex in the Middle Euphrates Steppe, North Syria. Orient, supplement I, 21-30. 
+
+Nishiaki, Y., and Matsutani, T. (eds.), 2001. Tell Kosak Shamali, vol. I. The archaeological investigations on the Upper Euphrates, Syria (Oxford: Oxbow).
+
+Ottoni, C., Girdland Flink, L., Evin, A., Geörg, C., De Cupere, B., Van Neer, W., Bartosiewicz, L., Linderholm, A., Barnett, R., Peters, J. and Decorte, R., 2013. Pig domestication and human-mediated dispersal in western Eurasia revealed through ancient DNA and geometric morphometrics. Molecular biology and evolution, 30(4), pp.824-832.
+
+Özbal, R., Gerritsen, F., Diebold, B., Healey, E., Aydın, N., Loyet, M., Nardulli, F., Reese, D., Ekstrom, H., Sholts, S. and Mekel-Bobrov, N., 2004. Tell Kurdu Excavations 2001. Anatolica, 30(0), pp.37-108.
+
+Peltenburg, E.J., 2007. Diverse settlement pattern changes in the Middle Euphrates Valley in the later third millennium BC: The contribution of Jerablus Tahtani. Publications de l'Institut Français d'Études Anatoliennes, 19(1), pp.247-266. 
+
+Philip, G. and Millard, A., 2000. Khirbet Kerak ware in the Levant: the implications of radiocarbon chronology and spatial distribution. Publications de l'Institut Français d'Études Anatoliennes, 11(1), pp.279-296.
+
+Ristvet, L., 2011. Radiocarbon. In: M. Lebeau (Ed.), Associated Regional Chronologies for the Ancient Near East and Eastern Mediterranean. Turnhout: Brepols, 291-318. 
+
+Sanjurjo-Sánchez, J., and Fenollós, J.L.M., 2012. Chronology during the bronze age in the archaeological site tell Qubr Abu al-‘Atiq, Syria. Journal of Archaeological Science, 39(1), 163-174.
+
+Sato, J., Sato, T., Otomori, Y. and Suzuki, H., 1969. University of Tokyo radiocarbon measurements II. Radiocarbon, 11(2), 509-514.
+
+Schneider, A.W., 2015. The Perfect Storm: A New Multicausal Model of the Political Collapse of Titriș Höyük, an Early Bronze Age City-State in Southeastern Anatolia (Doctoral dissertation, UC San Diego).
+
+Schwartz, G. M., 1988. A Ceramic Chronology from Tell Leilan: Operation 1. New York: Hamilton Printing Co.
+
+Schwartz, G.M., Curvers, H.H., Dunham, S.S. and Weber, J.A., 2012. From urban origins to imperial integration in western Syria: Umm el-Marra 2006, 2008. American Journal of Archaeology, 116(1), pp.157-193.Schwartz, G.M., 2017. Western Syria and the third-to second-millennium BC transition. In: F. Höflmayer (Ed), The Late Third Millennium in the Ancient Near East. Chronology, C14, and Climate Change. Chicago: Oriental Institute, 87-128.
+
+Stein, G.J., Bernbeck, R., Coursey, C., McMahon, A., Miller, N.F., Misir, A., Nicola, J., Pittman, H., Pollock, S. and Wright, H., 1996. Uruk colonies and Anatolian communities: An interim report on the 1992-1993 excavations at Hacinebi, Turkey. American Journal of Archaeology, pp.205-260.
+
+Stuckenrath, R., 1963. University of Pennsylvania radiocarbon dates VI. Radiocarbon, 5, 82-103.
+
+Tauber, H., 1960. Copenhagen radiocarbon dates IV. Radiocarbon, 2, 12-25.Tauber, H., 1968. Copenhagen radiocarbon dates IX. Radiocarbon, 10(2), 295-327.Taylor, R.E., Beaumont, W.C., Southon, J., Stronach, D., and Pickworth, D., 2010. Alternative Explanations for Anomalous 14 C Ages on Human Skeletons Associated with the 612 BCE Destruction of Nineveh. Radiocarbon, 52(2), 372-382.
+
+Vallet, R., 2018. Tell Feres, a failed pathwat towards urbanis, in Northern Mesopotamia. In: V. Déroche, M. G. Masetti-Rouault, N. A. M. Amen, L. Marti, O. Rouault, and A. Tenu (eds.), Études Mésopotamiennes–Mesopotamian Studies. Oxford: Archaeopress, 156-172. 
+
+Van der Plicht, J., Akkermans, P.M., Nieuwenhuyse, O., Kaneda, A. and Russell, A., 2011. Tell Sabi Abyad, Syria: radiocarbon chronology, cultural change, and the 8.2 ka event. Radiocarbon, 53(2), pp.229-243.
+
+van Driel, G., and, van Driel Murray, C., 1979. Jebel Aruda 1977-78. Akkadica, 12, 2-28.
+
+Van Loon, M.V., 1988. Hammam Et Turkman I (1–2).
+
+Vogel, J.C. and Waterbolk, H.T., 1972. Groningen radiocarbon dates X. Radiocarbon, 14(1), pp.6-110.
+
+Watkins, T. and Campbell, S., 1987. The chronology of the Halaf culture. Chronologies in the Near East, Relative Chronologies and Absolute Chronology, pp.16-000.
+
+Weiss, H., Manning, S.W., Ristvet, L., Mori, L., Besonen, M., McCarthy, A., Quenet, P., Smith, A. and Bahrani, Z., 2012. Tell Leilan Akkadian imperialization, collapse, and short-lived reoccupation defined by high-resolution radiocarbon dating. Seven Generations since the Fall of Akkad. Harrassowitz, Wiesbaden.
+
+Weiss, H., Courty, M. A., Wetterstrom, W., Guichard, F., Senior, L., Meadow, R., and Curnow, A., 1993. The genesis and collapse of third millennium north Mesopotamian civilization. Science, 261, 995.
+
+Weninger, B., Neef, R., and Meyer, J.W., 2010. Zur Radiocarbondatierung der Fruehbronzezeit in Tell Chuera (Nordsyrien). In: J.-W. Meyer (Ed.), Ausgrabungen in Tell Chuera in Nordost-Syrien II: Vorberichte zu den Grabungskampagnen 1998 bis 2005. Wiesbaden: Harrassowitz Verlag, 187-198. 
+
+Wright, H.T., and Rupley, E.S., 2001. Calibrated radiocarbon age determinations of Uruk-related assemblages. In: M. S. Rothman (Ed.), Uruk Mesopotamia & Its Neighbors,  Cross-Cultural Interactions in the Era of State Formation. Sante Fe, NM: School of American Research Press, 85-122. 
+
+Yener, A. K., Edens, C., Casana, J., Diebold, B., Ekstrom, H., Loyet, M. and Özbal, R., 2000. Tell Kurdu Excavations 1999. Anatolica, 26, pp.31-117
+
+
+
+
+
